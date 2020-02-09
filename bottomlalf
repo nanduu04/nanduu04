@@ -1,0 +1,231 @@
+
+    <!-- ABOUT SECTION -->
+    <section class="section-primary-about" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3 text-center">
+                     <!-- <img class="profilepic" src=
+                    "https://pbs.twimg.com/profile_images/641063961144750081/IqosL0KD.jpg"> --> 
+                    <h2>About Me</h2>
+                    <hr>
+                  <p class="lead">I'm a student that loves to learn. I love collaborating with others, pushing products forward, and solving complex problems. I'm also a Computer Science student at Ontario Tech University.</p> 
+                
+                </div><!-- /col-md-6 -->
+            </div><!-- / row -->
+        </div><!-- /container -->
+     </section> 
+    <!-- SKILLS SECTION --> 
+
+
+    <!-- <section class="section-image" id="skills">
+        <div class="img-overlay"></div> -->
+
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 section-heading">
+                    <!-- <h2>Skills</h2>  -->
+
+
+                    <!-- <p class="lead">Here are a few cool things about me</p> -->
+<!-- 
+                    <hr>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-4 text-center">
+                    <span class="lnr lnr-user"></span>
+
+                    <h2>Heading</h2>
+
+
+                    <p>Lorem Ipsum is simply dummy text of the printing and
+                    typesetting industry. Lorem Ipsum has been the industry's
+                    standard dummy text ever since the 1500s, when an unknown
+                    printer took a galley of type and scrambled it to make a
+                    type specimen book.</p>
+                </div>
+
+
+                <div class="col-md-4 text-center">
+                    <span class="lnr lnr-star"></span>
+
+                    <h2>Heading</h2>
+
+
+                    <p>Lorem Ipsum is simply dummy text of the printing and
+                    typesetting industry. Lorem Ipsum has been the industry's
+                    standard dummy text ever since the 1500s, when an unknown
+                    printer took a galley of type and scrambled it to make a
+                    type specimen book.</p>
+                </div>
+
+
+                <div class="col-md-4 text-center">
+                    <span class="lnr lnr-diamond"></span>
+
+                    <h2>Heading</h2>
+
+
+                    <p>Lorem Ipsum is simply dummy text of the printing and
+                    typesetting industry. Lorem Ipsum has been the industry's
+                    standard dummy text ever since the 1500s, when an unknown
+                    printer took a galley of type and scrambled it to make a
+                    type specimen book.</p>
+                </div>
+            </div> / row -->
+        <!-- </div> /container -->
+    <!-- </section>  --> 
+    <!-- TIMELINE SECTION --> 
+
+
+    <!-- <section class="section-primary" id="timelinesection">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 section-heading">
+                    <h2><u>Timeline</u></h2>
+                    <p class="lead"> Few cool things about me</p>
+                    <hr class="white">
+                </div>
+            </div> -->
+
+
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- Timeline -->
+
+
+                    <div id="timeline">
+                        <!-- Timeline Item, copy from here to create various boxes -->
+
+
+                        <div class="timeline-item">
+                            <!--Icon inside the circle-->
+
+
+                            <div class="timeline-icon">
+                                <i class="fa fa-star"></i>
+                            </div>
+                            <!-- Content from timeline box and position (right or left)-->
+
+
+                            <div class="timeline-content right">
+                                <h2>Ontario Tech University | Education</h2>
+
+
+                                <p>Relevant Completed Courses: Intro to Computer Science, Programming Workshop I and II, Computer Architecture, Data Structures, Scientific Data Analysis, Computational Science, Digital Media, Software Design and Analysis, Software Systems Development & Integration, Analysis & Design of Algorithms, Database Systems & Concepts, Ethics, Law & Social. Impacts of Computers, Programming Languages</p>
+                            </div>
+                        </div>
+                        <!-- /Timeline Item-->
+                        <!-- Timeline Item, copy from here to create various boxes -->
+
+
+                        <div class="timeline-item">
+                            <!--Icon inside the circle-->
+
+
+                            <div class="timeline-icon">
+                                <i class="fa fa-group"></i>
+                            </div>
+                            <!-- Content from timeline box and position (right or left)-->
+
+
+                            <div class="timeline-content left">
+                                <h2>USoccer | Project</h2>
+
+
+                                <p>The project, named USoccer which promotes a healthy living and lifestyle by allowing people of various age group to search and create a team at their local area to play various sports.</p>
+                            </div>
+                        </div>
+                        <!-- /Timeline Item-->
+                        <!-- Timeline Item, copy from here to create various boxes -->
+
+
+                        <div class="timeline-item">
+                            <!--Icon inside the circle-->
+
+
+                            <div class="timeline-icon">
+                                <i class="fa fa-group"></i>
+                            </div>
+                            <!-- Content from timeline box and position (right or left)-->
+
+
+                            <div class="timeline-content right" >
+                                <h2>Toronto-Fc-API | Project</h2>
+
+
+                                <p>A RESTful API that returns rich data about the 2017 Toronto FC football team such as game results, fixtures, player details, and more information. All data is scraped from MLS's website.</p>
+                            </div>
+                        </div>
+                        <!-- /Timeline Item-->
+                        <!-- Timeline Item, copy from here to create various boxes -->
+
+
+                        <div class="timeline-item">
+                            <!--Icon inside the circle-->
+
+
+                            <div class="timeline-icon">
+                                <i class="fa fa-group"></i>
+                            </div>
+                            <!-- Content from timeline box and position (right or left)-->
+
+
+                            <div class="timeline-content left">
+                                <h2>Internet Of Things Alert | Project</h2>
+
+
+                                <p>Internet of Things Alert is an iphone application programmed with a combination of Swift and Objective-C and was developed at Hack Illinois. The application alerts the user about temperature, humidity, gas, motion, and fire alerts based on the push notifications sent to it by a raspberry pi device connected to a sensor for each alert..</p>
+                            </div>
+                        </div>
+                        <!-- /Timeline Item-->
+                        <!-- Timeline Item, copy from here to create various boxes -->
+
+
+                        <div class="timeline-item">
+                            <!--Icon inside the circle-->
+
+
+                            <div class="timeline-icon">
+                                <i class="fa fa-star"></i>
+                            </div>
+                            <!-- Content from timeline box and position (right or left)-->
+
+
+                            <div class="timeline-content right">
+                                <h2>The Woodlands Secondary School | Education</h2>
+                                <p>Ontario High School Diploma</p>
+                            </div>
+                        </div>
+                        <!-- /Timeline Item-->
+                    </div>
+                    <!-- /col-md-12 -->
+                </div>
+                <!-- /row -->
+            </div>
+        </div> <!-- / container -->
+    </section>
+    <!-- FOOTER SECTION -->
+<!-- 
+    <footer class="footer">
+        <div class="container">
+                <div class="col-md-4 text-center">
+                    <p>Hire Me <i class="fa fa-heart"></i> Please</p>
+                </div>
+
+
+                <div class="col-md-4">
+                    <div class="social-footer">
+                        <a href="http://www.twitter.com/nandupokhrel" target=
+                        "_blank"><i class="fa fa-twitter"></i></a> <a href=
+                        "http://www.instagram.com/nanduu04" target=
+                        "_blank"><i class="fa fa-instagram"></i></a> <a href=
+                        "http://www.github.com/nanduu04" target=
+                        "_blank"><i class="fa fa-github"></i></a>
+                    </div> <!-- /social footer -->
+                </div> <!-- /col-md-4 -->
+            </div><!-- /row -->
+        </div><!-- /container -->
