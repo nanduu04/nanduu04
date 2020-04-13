@@ -1,3 +1,3 @@
-<h1>Persoal Portfolio<h1>
+<h1>Personal Portfolio<h1>
 
 #Author Nandu
