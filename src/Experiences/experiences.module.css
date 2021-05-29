@@ -1,0 +1,13 @@
+.layout {
+  width: 100wh;
+  height: 100vh;
+  background-color: grey;
+  overflow: hidden;
+}
+.name {
+  position: relative;
+  /* top: 28vh; */
+  left: 10vh;
+  font-size: 45px;
+  color: black;
+}
