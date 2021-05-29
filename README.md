@@ -1,17 +1,6 @@
-# Welcome to my personal portfolio
+### Hi! I am Nandu👋
 
-
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-
+Hi, I am Nandu, currently a third year Computer Science student. 
+- I’m willing to collaborate on open source projects.
+- Love learning and doing challenging things.
+- How to reach me : nandupokhrel@gmail.com
