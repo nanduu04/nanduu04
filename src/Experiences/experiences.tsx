@@ -1,38 +1,40 @@
 import React from "react";
-import styles from "./experiences.module.css";
-import { makeStyles } from "@material-ui/core/styles";
 import {
   VerticalTimeline,
   VerticalTimelineElement,
 } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
-import { BsBriefcaseFill } from "react-icons/bs";
-import {
-  FaGraduationCap,
-  FaUniversity,
-  FaHandHolding,
-  FaHammer,
-} from "react-icons/fa";
-import { SiDatadog, SiMongodb } from "react-icons/si";
-
-const useStyles = makeStyles((theme) => ({
-  root: {
-    flexGrow: 1,
-    margin: 50,
-  },
-  paper: {
-    padding: theme.spacing(5),
-    textAlign: "center",
-    color: theme.palette.text.secondary,
-  },
-}));
+import { FaGraduationCap, FaUniversity, FaHammer } from "react-icons/fa";
+import { SiAsana, SiDatadog, SiMongodb, SiCockroachlabs } from "react-icons/si";
+import { GiGorilla } from "react-icons/gi";
 
 function Experiences() {
-  const classes = useStyles();
   return (
     <div>
       {/* <h1 className={styles.name}> Timeline </h1> */}
       <VerticalTimeline>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="May 2022 - August 2022"
+          iconStyle={{ background: "#FA6579", color: "#fff" }}
+          icon={<SiAsana />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Software Engineering Intern
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">Asana</h4>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="Jan 2022 - 2022 April"
+          iconStyle={{ background: "#212121", color: "#fff" }}
+          icon={<GiGorilla />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Software Engineering Intern
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">A Thinking Ape</h4>
+        </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           date="Aug 2021 - Dec 2021"
@@ -40,7 +42,7 @@ function Experiences() {
           icon={<SiDatadog />}
         >
           <h3 className="vertical-timeline-element-title">
-            Software Engineering Intern
+            Data Engineering Intern
           </h3>
           <h4 className="vertical-timeline-element-subtitle">Datadog</h4>
         </VerticalTimelineElement>
@@ -58,8 +60,8 @@ function Experiences() {
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           date="Jan 2021  - Apr 2021"
-          iconStyle={{ background: "#2C9FEF", color: "#fff" }}
-          icon={<BsBriefcaseFill />}
+          iconStyle={{ background: "#2D99FE", color: "#fff" }}
+          icon={<SiCockroachlabs />}
         >
           <h3 className="vertical-timeline-element-title">
             Software Engineering Intern
@@ -75,20 +77,10 @@ function Experiences() {
           <h3 className="vertical-timeline-element-title">Co-Founder</h3>
           <h4 className="vertical-timeline-element-subtitle">BookTrades</h4>
         </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--work"
-          date="May 2020  - Sept 2020"
-          iconStyle={{ background: "orange", color: "#fff" }}
-          icon={<FaHandHolding />}
-        >
-          <h3 className="vertical-timeline-element-title">Intern</h3>
-          <h4 className="vertical-timeline-element-subtitle">
-            Radha Madhav Society
-          </h4>
-        </VerticalTimelineElement>
+
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="Sept 2017 - Dec 2022"
+          date="Sept 2018 - Dec 2022"
           iconStyle={{ background: "#1373B7", color: "#fff" }}
           icon={<FaUniversity />}
         >
@@ -100,7 +92,7 @@ function Experiences() {
 
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="April 2017"
+          date="2018"
           iconStyle={{ background: "rgb(233, 30, 99)", color: "#fff" }}
           icon={<FaGraduationCap />}
         >

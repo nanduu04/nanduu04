@@ -19,12 +19,6 @@ function Homepage() {
         <a href="mailto:nandupokhrel@gmail.com" target="_blank">
           <AiOutlineMail style={{ paddingLeft: "1.5vh" }} />
         </a>
-        <a
-          href="https://drive.google.com/file/d/1n0IpC3zL8YzI5VgPvTJhlqW0RMiTQYVM/view?usp=sharing"
-          target="_blank"
-        >
-          <AiOutlineFilePdf style={{ paddingLeft: "1.5vh" }} />
-        </a>
       </div>
     </div>
   );
