@@ -15,26 +15,16 @@ function Experiences() {
       <VerticalTimeline>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="May 2022 - August 2022"
+          date=""
           iconStyle={{ background: "#FA6579", color: "#fff" }}
           icon={<SiAsana />}
         >
           <h3 className="vertical-timeline-element-title">
-            Software Engineering Intern
+            Software Engineer
           </h3>
           <h4 className="vertical-timeline-element-subtitle">Asana</h4>
         </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--work"
-          date="Jan 2022 - 2022 April"
-          iconStyle={{ background: "#212121", color: "#fff" }}
-          icon={<GiGorilla />}
-        >
-          <h3 className="vertical-timeline-element-title">
-            Software Engineering Intern
-          </h3>
-          <h4 className="vertical-timeline-element-subtitle">A Thinking Ape</h4>
-        </VerticalTimelineElement>
+       
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           date="Aug 2021 - Dec 2021"
@@ -64,9 +54,20 @@ function Experiences() {
           icon={<SiCockroachlabs />}
         >
           <h3 className="vertical-timeline-element-title">
-            Software Engineering Intern
+            Software Engineer
           </h3>
           <h4 className="vertical-timeline-element-subtitle">Cockroach Labs</h4>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date=""
+          iconStyle={{ background: "#212121", color: "#fff" }}
+          icon={<GiGorilla />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Software Engineer
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">A Thinking Ape</h4>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
@@ -80,7 +81,7 @@ function Experiences() {
 
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="Sept 2018 - Dec 2022"
+          date=""
           iconStyle={{ background: "#1373B7", color: "#fff" }}
           icon={<FaUniversity />}
         >
@@ -92,7 +93,7 @@ function Experiences() {
 
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2018"
+          date=""
           iconStyle={{ background: "rgb(233, 30, 99)", color: "#fff" }}
           icon={<FaGraduationCap />}
         >
