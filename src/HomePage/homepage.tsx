@@ -8,7 +8,7 @@ function Homepage() {
   return (
     <div className={styles.homeScreen}>
       <h1 className={styles.name}> Nandu Pokhrel</h1>
-      <h2 className={styles.info}>Programmer & Entrepreneur</h2>
+      <h2 className={styles.info}>Software Engineer</h2>
       <div className={styles.icon}>
         <a href="https://github.com/nanduu04">
           <FaGithub />
@@ -20,6 +20,7 @@ function Homepage() {
           <AiOutlineMail style={{ paddingLeft: "1.5vh" }} />
         </a>
       </div>
+      <h2 className={styles.info}> - Currently exploring new area of interests.</h2>
     </div>
   );
 }

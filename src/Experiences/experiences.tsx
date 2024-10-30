@@ -27,7 +27,7 @@ function Experiences() {
        
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="Aug 2021 - Dec 2021"
+          // date="Aug 2021 - Dec 2021"
           iconStyle={{ background: "#7846A5", color: "#fff" }}
           icon={<SiDatadog />}
         >
@@ -38,7 +38,7 @@ function Experiences() {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="June 2021 - 2021 Aug"
+          // date="June 2021 - 2021 Aug"
           iconStyle={{ background: "#439743", color: "#fff" }}
           icon={<SiMongodb />}
         >
@@ -49,7 +49,8 @@ function Experiences() {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="Jan 2021  - Apr 2021"
+          date=""
+          // "Jan 2021  - Apr 2021"
           iconStyle={{ background: "#2D99FE", color: "#fff" }}
           icon={<SiCockroachlabs />}
         >
@@ -58,7 +59,7 @@ function Experiences() {
           </h3>
           <h4 className="vertical-timeline-element-subtitle">Cockroach Labs</h4>
         </VerticalTimelineElement>
-        <VerticalTimelineElement
+        {/* <VerticalTimelineElement
           className="vertical-timeline-element--work"
           date=""
           iconStyle={{ background: "#212121", color: "#fff" }}
@@ -68,7 +69,7 @@ function Experiences() {
             Software Engineer
           </h3>
           <h4 className="vertical-timeline-element-subtitle">A Thinking Ape</h4>
-        </VerticalTimelineElement>
+        </VerticalTimelineElement> */}
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           date="May 2020  - Sept 2020"
