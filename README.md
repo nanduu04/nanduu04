@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Nandu!](https://sakigo9.github.io/nanduu04/)
+### Hello World 👋 It's [Nandu!](https://nanduu04.github.io/nanduu04/)
 
 I have a B.Sc. in Computer Science, with a minor in Mathematics from Ontario Tech University.
 
