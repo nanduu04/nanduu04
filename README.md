@@ -1,6 +1,4 @@
-### Hello World 👋 It's [Nandu!](https://nanduu04.github.io/nanduu04/)
-
-I have a B.Sc. in Computer Science, with a minor in Mathematics from Ontario Tech University.
+### Hello World 👋
 
 - Learning new areas of computers and upgrading myself. 
 - Getting started with open source contribution!
