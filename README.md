@@ -14,7 +14,7 @@ Hey there! I'm a passionate developer who believes in the power of code to solve
 class Developer:
     def __init__(self):
         self.name = "Nandu Pokhrel"
-        self.role = "FDeveloper"
+        self.role = "Solve Problems"
         self.location = "New York"
         self.current_focus = ["Research & Development", "Environment"]
         self.fun_fact = "I turn coffee into code ☕"
