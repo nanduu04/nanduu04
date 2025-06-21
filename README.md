@@ -36,13 +36,6 @@ nandu.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanduu04&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🎯 Current Goals
-
-- 🔥 **Contributing to Open Source**: Actively looking for meaningful projects to contribute to
-- 📚 **Expanding Knowledge**: Learning advanced backend architectures and cloud technologies  
-- 🌐 **Building Impact**: Creating applications that solve real problems for real people
-- 🤝 **Community Engagement**: Sharing knowledge and helping fellow developers grow
-
 ## 🌐 Let's Connect!
 
 <div align="center">
