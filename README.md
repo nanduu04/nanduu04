@@ -6,53 +6,13 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
-Hey there! I'm a passionate developer who believes in the power of code to solve real-world problems. Currently diving deep into the world of software development while contributing to open source projects that make a difference.
+Yo! I'm a developer who believes in the power of human to solve real-world problems. Currently diving deep into the world of tech while contributing to open source projects that make a difference.
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Nandu Pokhrel"
-        self.role = "Solve Problems"
-        self.location = "New York"
-        self.current_focus = ["Research & Development", "Environment"]
-        self.fun_fact = "I turn coffee into code ☕"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Ask me if you need anything built.")
-
-nandu = Developer()
-nandu.say_hi()
-```
-## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nanduu04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanduu04&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanduu04&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🌐 Let's Connect!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandupokhrel@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nanduu04)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nanduu04&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
-<div align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  <i> "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </div>
 
 <div align="center">
