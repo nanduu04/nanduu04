@@ -1,38 +1,67 @@
-### Hello World 👋
+# 🚀 Nandu Pokhrel
 
-- Learning new areas of computers and upgrading myself. 
-- Getting started with open source contribution!
-- How to reach me: nandupokhrel@gmail.com 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer+%26+Creator;Open+Source+Enthusiast;Building+Cool+Web+Apps;Always+Learning+Something+New" alt="Typing SVG" />
+</div>
 
+---
 
-<!-- 
-<a href="https://twitter.com/nandupokhrel">
-<img align="left" alt="Nandu p | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/nandupokhrel/">
-<img align="left" alt="Nandu P" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@saketprag322">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.instagram.com/sakigo_09/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/watch?v=eXlaZbQ0TiY&t=3s">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a> 
-<br />
--->
-<br />
+## 🌟 About Me
 
-**Languages and Tools:**
+Hey there! I'm a passionate developer who believes in the power of code to solve real-world problems. Currently diving deep into the world of software development while contributing to open source projects that make a difference.
 
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Nandu Pokhrel"
+        self.role = "FDeveloper"
+        self.location = "New York"
+        self.current_focus = ["Research & Development", "Environment"]
+        self.fun_fact = "I turn coffee into code ☕"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Ask me if you need anything built.")
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+nandu = Developer()
+nandu.say_hi()
+```
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nanduu04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanduu04&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanduu04&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
-![Nandu's github stats](https://github-readme-stats.vercel.app/api?username=nanduu04&show_icons=true&hide_border=true)
+## 🎯 Current Goals
+
+- 🔥 **Contributing to Open Source**: Actively looking for meaningful projects to contribute to
+- 📚 **Expanding Knowledge**: Learning advanced backend architectures and cloud technologies  
+- 🌐 **Building Impact**: Creating applications that solve real problems for real people
+- 🤝 **Community Engagement**: Sharing knowledge and helping fellow developers grow
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandupokhrel@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nanduu04)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nanduu04&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<div align="center">
+  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
